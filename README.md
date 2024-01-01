@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
  <source media="(prefers-color-scheme: light)" srcset="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
- <img alt="Marketing Thinking and Development (5)" src="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
+ <img alt="picture" src="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
 </picture>
 
 
