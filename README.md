@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor">
  <img alt="banner-image" src="https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 </picture>
 
