@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
+ <source media="(prefers-color-scheme: dark)" srcset="![YOUR-DARKMODE-IMAGE](https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
+ <source media="(prefers-color-scheme: light)" srcset="![YOUR-LIGHTMODE-IMAGE](https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
+ <img alt="YOUR-ALT-TEXT" src="![YOUR-DEFAULT-IMAGE](https://www.canva.com/design/DAF4kDFWD3w/Th2_9Ps9KU3IzcSCj5ANJA/view?utm_content=DAF4kDFWD3w&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
 </picture>
 
 
