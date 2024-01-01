@@ -3,7 +3,8 @@
 ">
   <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/nhirata3/nhirata3/assets/115359671/f60039af-06ef-45c0-add5-c9ef53517361)
 ">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="![image](https://github.com/nhirata3/nhirata3/assets/115359671/f31853b7-0124-425c-bde0-2f874efb0767)
+">
 </picture>
 
 
