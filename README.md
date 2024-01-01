@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Marketing Thinking and Development (5)">
  <source media="(prefers-color-scheme: light)" srcset="Marketing Thinking and Development (5)">
- <img alt="YOUR-ALT-TEXT" src="Marketing Thinking and Development (5)">
+ <img alt="Marketing Thinking and Development (5)" src="Marketing Thinking and Development (5)">
 </picture>
 
 
