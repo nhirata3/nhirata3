@@ -1,8 +1,9 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
- <source media="(prefers-color-scheme: light)" srcset="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
- <img alt="picture" src="![Marketing Thinking and Development (5)](https://github.com/nhirata3/myFolder/assets/115359671/18e728a5-8d11-49be-a2eb-7ee8b1d9d974)">
+ <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/nhirata3/nhirata3/assets/115359671/d7b3ffd0-d044-4db8-b67c-b5428ea21587)">
+ <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/nhirata3/nhirata3/assets/115359671/d7b3ffd0-d044-4db8-b67c-b5428ea21587)">
+ <img alt="picture" src="![image](https://github.com/nhirata3/nhirata3/assets/115359671/d7b3ffd0-d044-4db8-b67c-b5428ea21587)">
 </picture>
+
 
 
 ### Hi there 👋
