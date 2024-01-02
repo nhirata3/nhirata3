@@ -7,7 +7,7 @@
 
 
 ### Hi there 👋
-🔭 I’m currently working on leveraging advanced data analytics techniques to extract actionable insights from complex business datasets. My focus is on optimizing decision-making processes and driving data-driven strategies for business growth.<br/>
+🔭 I’m currently working on leveraging advanced data analytics techniques to extract actionable insights from complex business datasets. My focus is on optimizing decision-making processes and driving data-driven strategies for business growth.<br>
 🌱 I’m currently learning about the latest advancements in machine learning algorithms and statistical modeling to enhance my predictive analytics skills. Additionally, I am expanding my knowledge in data visualization tools and techniques to communicate findings effectively.
 👯 I’m looking to collaborate on projects that involve exploring and analyzing large datasets to derive meaningful conclusions. I am interested in collaborating with professionals from diverse backgrounds to bring a holistic perspective to data-driven solutions.
 🤔 I’m looking for help with staying updated on the latest industry trends and best practices in business data analytics. Additionally, I am open to learning from experienced professionals who can provide guidance on refining my analytical methodologies.
